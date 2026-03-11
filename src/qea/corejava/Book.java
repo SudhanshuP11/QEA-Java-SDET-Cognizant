@@ -1,3 +1,5 @@
+package qea.corejava;
+
 public class Book {
     String title;
     String author;

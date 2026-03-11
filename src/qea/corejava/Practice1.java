@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
+package qea.corejava;
 
 public class Practice1 {
 }
