@@ -1,4 +1,4 @@
-package qea.QualifierPracticeQue;
+package qea.QualifierPracticeQue.stringS;
 
 import java.util.Arrays;
 import java.util.Scanner;

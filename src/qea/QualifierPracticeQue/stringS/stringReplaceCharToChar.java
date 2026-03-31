@@ -1,4 +1,4 @@
-package qea.QualifierPracticeQue;
+package qea.QualifierPracticeQue.stringS;
 
 public class stringReplaceCharToChar {
 }
